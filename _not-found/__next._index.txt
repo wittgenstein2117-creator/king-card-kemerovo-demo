@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[9702,[],""]
+3:I[9804,[],""]
+:HL["/king-card-kemerovo-demo/_next/static/css/722a6dc73641373e.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/king-card-kemerovo-demo/_next/static/css/722a6dc73641373e.css","precedence":"next"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rS-OMvenK7w80PkgmcFl8"}
